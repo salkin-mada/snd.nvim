@@ -1,0 +1,25 @@
+@comment
+Notes On. Translate if.
+@end
+
+* Notater
+
+** Hvad skal pluginet gøre?
+   - exec `snd` please
+   - switch between persistent job- and poly job spawning mode
+   - chansend or rpc with `snd`?
+   - toggle file export on exec
+   - 
+
+** Andre ideer
+   - floating fzf selector of "inbuilt" scripts
+   - snd.nvim lokal `snd` præference, der indskydes som string pre exec %:p scheme filen
+   -- keep `snd` outside of `nvim` completely vanilla, c'ouss why nåt.
+   - 
+
+** Hvad med?
+   - andre filtyper end `scheme`?
+   ~~ hvordan skal de behandles?
+   ~~ fix forth, ruby ..
+   ~~ ?? understand some more `snd`
+
